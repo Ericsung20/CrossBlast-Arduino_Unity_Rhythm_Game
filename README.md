@@ -1,6 +1,6 @@
 # CrossBlast Arduino Unity Rhythm Game
 
-A rhythm game project that combines Arduino hardware input with a Unity-based interactive music game.
+A rhythm game project that combines Arduino game controller hardware input with a Unity-based interactive music game.
 
 ## Overview
 This project was developed as a team-based game project combining physical input and digital gameplay.  
